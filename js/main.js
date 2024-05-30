@@ -1,4 +1,4 @@
-  $(document).ready(function () {
+    $(document).ready(function () {
             // Inicializa o carrossel
             $('#carousel-imagens').slick({
                 autoplay: true,
